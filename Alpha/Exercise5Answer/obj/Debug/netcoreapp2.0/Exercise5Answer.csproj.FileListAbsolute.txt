@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\bin\Debug\netcoreapp2.0\Exercise5Answer.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\bin\Debug\netcoreapp2.0\Exercise5Answer.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\bin\Debug\netcoreapp2.0\Exercise5Answer.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\bin\Debug\netcoreapp2.0\Exercise5Answer.dll
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\bin\Debug\netcoreapp2.0\Exercise5Answer.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.dll
+C:\Projects\Empower\VisualStudio\Alpha\Exercise5Answer\obj\Debug\netcoreapp2.0\Exercise5Answer.pdb

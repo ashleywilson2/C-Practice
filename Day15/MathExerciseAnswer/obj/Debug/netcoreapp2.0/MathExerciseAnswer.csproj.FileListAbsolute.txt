@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\bin\Debug\netcoreapp2.0\MathExerciseAnswer.deps.json
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\bin\Debug\netcoreapp2.0\MathExerciseAnswer.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\bin\Debug\netcoreapp2.0\MathExerciseAnswer.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\bin\Debug\netcoreapp2.0\MathExerciseAnswer.dll
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\bin\Debug\netcoreapp2.0\MathExerciseAnswer.pdb
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.dll
+C:\Projects\Empower\VisualStudio\Day15\MathExerciseAnswer\obj\Debug\netcoreapp2.0\MathExerciseAnswer.pdb

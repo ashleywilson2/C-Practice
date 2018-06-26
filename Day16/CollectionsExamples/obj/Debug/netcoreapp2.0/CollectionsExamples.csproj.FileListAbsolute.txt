@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\bin\Debug\netcoreapp2.0\CollectionsExamples.deps.json
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\bin\Debug\netcoreapp2.0\CollectionsExamples.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\bin\Debug\netcoreapp2.0\CollectionsExamples.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\bin\Debug\netcoreapp2.0\CollectionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\bin\Debug\netcoreapp2.0\CollectionsExamples.pdb
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.pdb
+C:\Projects\Empower\VisualStudio\Day16\CollectionsExamples\obj\Debug\netcoreapp2.0\CollectionsExamples.csprojAssemblyReference.cache

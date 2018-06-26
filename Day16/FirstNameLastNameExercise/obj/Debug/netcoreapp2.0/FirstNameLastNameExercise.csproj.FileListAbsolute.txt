@@ -1,0 +1,10 @@
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\bin\Debug\netcoreapp2.0\FirstNameLastNameExercise.deps.json
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\bin\Debug\netcoreapp2.0\FirstNameLastNameExercise.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\bin\Debug\netcoreapp2.0\FirstNameLastNameExercise.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\bin\Debug\netcoreapp2.0\FirstNameLastNameExercise.dll
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\bin\Debug\netcoreapp2.0\FirstNameLastNameExercise.pdb
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\obj\Debug\netcoreapp2.0\FirstNameLastNameExercise.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\obj\Debug\netcoreapp2.0\FirstNameLastNameExercise.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\obj\Debug\netcoreapp2.0\FirstNameLastNameExercise.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\obj\Debug\netcoreapp2.0\FirstNameLastNameExercise.dll
+C:\Projects\Empower\VisualStudio\Day16\FirstNameLastNameExercise\obj\Debug\netcoreapp2.0\FirstNameLastNameExercise.pdb

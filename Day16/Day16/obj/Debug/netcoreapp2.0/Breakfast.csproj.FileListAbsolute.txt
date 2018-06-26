@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Day16\Day16\bin\Debug\netcoreapp2.0\Breakfast.deps.json
+C:\Projects\Empower\VisualStudio\Day16\Day16\bin\Debug\netcoreapp2.0\Breakfast.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day16\Day16\bin\Debug\netcoreapp2.0\Breakfast.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day16\Day16\bin\Debug\netcoreapp2.0\Breakfast.dll
+C:\Projects\Empower\VisualStudio\Day16\Day16\bin\Debug\netcoreapp2.0\Breakfast.pdb
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.dll
+C:\Projects\Empower\VisualStudio\Day16\Day16\obj\Debug\netcoreapp2.0\Breakfast.pdb

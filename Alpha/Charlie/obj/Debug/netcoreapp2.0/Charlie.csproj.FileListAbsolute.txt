@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\bin\Debug\netcoreapp2.0\Charlie.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\bin\Debug\netcoreapp2.0\Charlie.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\bin\Debug\netcoreapp2.0\Charlie.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\bin\Debug\netcoreapp2.0\Charlie.dll
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\bin\Debug\netcoreapp2.0\Charlie.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.dll
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Charlie\obj\Debug\netcoreapp2.0\Charlie.csprojAssemblyReference.cache

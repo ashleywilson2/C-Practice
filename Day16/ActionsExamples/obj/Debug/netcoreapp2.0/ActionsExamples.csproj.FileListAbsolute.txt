@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\bin\Debug\netcoreapp2.0\ActionsExamples.deps.json
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\bin\Debug\netcoreapp2.0\ActionsExamples.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\bin\Debug\netcoreapp2.0\ActionsExamples.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\bin\Debug\netcoreapp2.0\ActionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\bin\Debug\netcoreapp2.0\ActionsExamples.pdb
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.pdb
+C:\Projects\Empower\VisualStudio\Day16\ActionsExamples\obj\Debug\netcoreapp2.0\ActionsExamples.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Heather\bin\Debug\netcoreapp2.0\Heather.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Heather\bin\Debug\netcoreapp2.0\Heather.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Heather\bin\Debug\netcoreapp2.0\Heather.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Heather\bin\Debug\netcoreapp2.0\Heather.dll
+C:\Projects\Empower\VisualStudio\Alpha\Heather\bin\Debug\netcoreapp2.0\Heather.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.dll
+C:\Projects\Empower\VisualStudio\Alpha\Heather\obj\Debug\netcoreapp2.0\Heather.pdb

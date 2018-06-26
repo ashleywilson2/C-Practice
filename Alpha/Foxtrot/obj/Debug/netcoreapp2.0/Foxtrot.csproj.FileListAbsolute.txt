@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\bin\Debug\netcoreapp2.0\Foxtrot.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\bin\Debug\netcoreapp2.0\Foxtrot.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\bin\Debug\netcoreapp2.0\Foxtrot.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\bin\Debug\netcoreapp2.0\Foxtrot.dll
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\bin\Debug\netcoreapp2.0\Foxtrot.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.dll
+C:\Projects\Empower\VisualStudio\Alpha\Foxtrot\obj\Debug\netcoreapp2.0\Foxtrot.pdb

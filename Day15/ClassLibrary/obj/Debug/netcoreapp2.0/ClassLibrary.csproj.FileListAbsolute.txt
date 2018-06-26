@@ -1,0 +1,9 @@
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.deps.json
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.pdb
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Projects\Empower\VisualStudio\Day15\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.pdb

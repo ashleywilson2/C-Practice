@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Echo\bin\Debug\netcoreapp2.0\Echo.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Echo\bin\Debug\netcoreapp2.0\Echo.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Echo\bin\Debug\netcoreapp2.0\Echo.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Echo\bin\Debug\netcoreapp2.0\Echo.dll
+C:\Projects\Empower\VisualStudio\Alpha\Echo\bin\Debug\netcoreapp2.0\Echo.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.dll
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Echo\obj\Debug\netcoreapp2.0\Echo.csprojAssemblyReference.cache

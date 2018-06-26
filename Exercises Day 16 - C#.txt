@@ -1,0 +1,2 @@
+Exercise: Use the concepts of Inheritance using a base/parent class and at least 2 classes that inherit from it (child classes).  Model whatever concept you like.  As an extra challenge create and implement an interface as well.
+

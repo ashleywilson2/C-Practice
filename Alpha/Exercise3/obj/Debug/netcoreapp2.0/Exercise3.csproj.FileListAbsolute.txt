@@ -1,0 +1,10 @@
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.dll
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\bin\Debug\netcoreapp2.0\Exercise3.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.dll
+C:\Projects\Empower\VisualStudio\Alpha\Exercise3\obj\Debug\netcoreapp2.0\Exercise3.pdb

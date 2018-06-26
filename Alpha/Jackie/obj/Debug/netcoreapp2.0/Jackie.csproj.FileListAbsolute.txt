@@ -1,0 +1,10 @@
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\bin\Debug\netcoreapp2.0\Jackie.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\bin\Debug\netcoreapp2.0\Jackie.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\bin\Debug\netcoreapp2.0\Jackie.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\bin\Debug\netcoreapp2.0\Jackie.dll
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\bin\Debug\netcoreapp2.0\Jackie.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\obj\Debug\netcoreapp2.0\Jackie.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\obj\Debug\netcoreapp2.0\Jackie.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\obj\Debug\netcoreapp2.0\Jackie.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\obj\Debug\netcoreapp2.0\Jackie.dll
+C:\Projects\Empower\VisualStudio\Alpha\Jackie\obj\Debug\netcoreapp2.0\Jackie.pdb

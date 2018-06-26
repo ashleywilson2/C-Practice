@@ -1,0 +1,9 @@
+C:\Projects\Empower\VisualStudio\Day15\Processors\bin\Debug\netcoreapp2.0\Processors.deps.json
+C:\Projects\Empower\VisualStudio\Day15\Processors\bin\Debug\netcoreapp2.0\Processors.dll
+C:\Projects\Empower\VisualStudio\Day15\Processors\bin\Debug\netcoreapp2.0\Processors.pdb
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.dll
+C:\Projects\Empower\VisualStudio\Day15\Processors\obj\Debug\netcoreapp2.0\Processors.pdb

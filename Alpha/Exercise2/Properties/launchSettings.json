@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise2": {
+      "commandName": "Project",
+      "commandLineArgs": "1 2 zebra 3"
+    }
+  }
+}

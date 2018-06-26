@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\bin\Debug\netcoreapp2.0\ExceptionsExamples.deps.json
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\bin\Debug\netcoreapp2.0\ExceptionsExamples.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\bin\Debug\netcoreapp2.0\ExceptionsExamples.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\bin\Debug\netcoreapp2.0\ExceptionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\bin\Debug\netcoreapp2.0\ExceptionsExamples.pdb
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.dll
+C:\Projects\Empower\VisualStudio\Day16\ExceptionsExamples\obj\Debug\netcoreapp2.0\ExceptionsExamples.pdb

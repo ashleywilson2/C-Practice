@@ -1,0 +1,10 @@
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\bin\Debug\netcoreapp2.0\VehiclesV2.deps.json
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\bin\Debug\netcoreapp2.0\VehiclesV2.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\bin\Debug\netcoreapp2.0\VehiclesV2.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\bin\Debug\netcoreapp2.0\VehiclesV2.dll
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\bin\Debug\netcoreapp2.0\VehiclesV2.pdb
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\obj\Debug\netcoreapp2.0\VehiclesV2.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\obj\Debug\netcoreapp2.0\VehiclesV2.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\obj\Debug\netcoreapp2.0\VehiclesV2.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\obj\Debug\netcoreapp2.0\VehiclesV2.dll
+C:\Projects\Empower\VisualStudio\Day15\VehiclesV2\obj\Debug\netcoreapp2.0\VehiclesV2.pdb

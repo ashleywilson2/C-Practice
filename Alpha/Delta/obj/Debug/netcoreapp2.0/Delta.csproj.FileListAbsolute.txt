@@ -1,0 +1,10 @@
+C:\Projects\Empower\VisualStudio\Alpha\Delta\bin\Debug\netcoreapp2.0\Delta.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Delta\bin\Debug\netcoreapp2.0\Delta.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Delta\bin\Debug\netcoreapp2.0\Delta.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Delta\bin\Debug\netcoreapp2.0\Delta.dll
+C:\Projects\Empower\VisualStudio\Alpha\Delta\bin\Debug\netcoreapp2.0\Delta.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Delta\obj\Debug\netcoreapp2.0\Delta.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Delta\obj\Debug\netcoreapp2.0\Delta.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Delta\obj\Debug\netcoreapp2.0\Delta.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Delta\obj\Debug\netcoreapp2.0\Delta.dll
+C:\Projects\Empower\VisualStudio\Alpha\Delta\obj\Debug\netcoreapp2.0\Delta.pdb

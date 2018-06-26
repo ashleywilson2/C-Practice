@@ -1,0 +1,11 @@
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\bin\Debug\netcoreapp2.0\Indigo.deps.json
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\bin\Debug\netcoreapp2.0\Indigo.runtimeconfig.json
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\bin\Debug\netcoreapp2.0\Indigo.runtimeconfig.dev.json
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\bin\Debug\netcoreapp2.0\Indigo.dll
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\bin\Debug\netcoreapp2.0\Indigo.pdb
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.csprojAssemblyReference.cache
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.AssemblyInfoInputs.cache
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.AssemblyInfo.cs
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.dll
+C:\Projects\Empower\VisualStudio\Alpha\Indigo\obj\Debug\netcoreapp2.0\Indigo.pdb
